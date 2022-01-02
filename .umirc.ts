@@ -4,10 +4,8 @@ const repo = 'valli-blog';
 
 export default defineConfig({
   title: repo,
-  favicon:
-    'https://oss.tool.lu/cache/202112/21/123226vc5hbztycsl0k5y5.jpg.icon.ico',
-  logo:
-    'https://oss.tool.lu/cache/202112/21/123226vc5hbztycsl0k5y5.jpg.icon.png',
+  favicon: '/favicon.ico',
+  logo: '/dqy.png',
   outputPath: 'docs-dist',
   mode: 'site',
   hash: true,
@@ -17,8 +15,17 @@ export default defineConfig({
   navs: [
     null,
     {
-      title: 'GitHub',
-      path: 'https://github.com/vallife/valli-blog.git',
+      title: '关于我',
+      // path: '链接是可选的',
+      // 可通过如下形式嵌套二级导航菜单，目前暂不支持更多层级嵌套：
+      children: [
+        {
+          title: 'GitHub',
+          path: 'https://github.com/DUANQY0818/valli-blog.git',
+        },
+        { title: 'CSDN博客', path: 'https://blog.csdn.net/chaochao123go' },
+        // { title: '第二项', path: '/guide' },
+      ],
     },
   ],
   // more config: https://d.umijs.org/config

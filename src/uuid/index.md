@@ -1,11 +1,13 @@
 ---
 title: uuid - 生成唯一id
+toc: false
 nav:
-  title: 使用文档
+  title: JS常用库
   path: /libs
+  order: 1
 group:
   path: /
-  order: 1
+  order: 0
 ---
 
 ## uuid

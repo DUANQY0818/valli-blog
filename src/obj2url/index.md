@@ -1,11 +1,13 @@
 ---
 title: obj2url - 将对象参数解析为url字符串
+toc: false
 nav:
-  title: 使用文档
+  title: JS常用库
   path: /libs
+  order: 1
 group:
   path: /
-  order: 2
+  order: 1
 ---
 
 ## obj2url

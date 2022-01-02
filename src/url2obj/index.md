@@ -1,11 +1,13 @@
 ---
 title: url2obj - 解码、获取url中参数并转为对象
+toc: false
 nav:
-  title: 使用文档
+  title: JS常用库
   path: /libs
+  order: 1
 group:
   path: /
-  order: 3
+  order: 2
 ---
 
 ## url2obj
