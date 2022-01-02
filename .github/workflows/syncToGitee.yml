@@ -14,6 +14,6 @@ jobs:
           dst: 'gitee/superd-web'
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token:  ${{ secrets.GITEE_TOKEN }}
-          static_list: "test"
+          static_list: "valli-blog"
           force_update: true
        debug: true
