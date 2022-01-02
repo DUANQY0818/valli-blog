@@ -105,3 +105,4 @@ dist
 
 .umi/
 /src/.umi
+docs-dist/

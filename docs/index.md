@@ -1,8 +1,8 @@
 ---
-title: valli-utils - 为组件开发场景而生的文档工具
+title: valli-blog - 为组件开发场景而生的文档工具
 order: 10
 hero:
-  title: valli-utils
+  title: valli-blog
   desc: 📖 为组件开发场景而生的文档工具
   actions:
     - text: 快速上手

@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/vallife/valli-utils.git"
+    "url": "git+ssh://git@github.com/vallife/valli-blog.git"
   },
   "lint-staged": {
     "*.{js,jsx,less,md,json}": [
@@ -47,7 +47,7 @@
     "yorkie": "^2.0.0"
   },
   "bugs": {
-    "url": "https://github.com/vallife/valli-utils/issues"
+    "url": "https://github.com/vallife/valli-blog/issues"
   },
-  "homepage": "https://github.com/vallife/valli-utils#readme"
+  "homepage": "https://github.com/vallife/valli-blog#readme"
 }

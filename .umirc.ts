@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'valli-utils';
+const repo = 'valli-blog';
 
 export default defineConfig({
   title: repo,
@@ -18,7 +18,7 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/vallife/valli-utils.git',
+      path: 'https://github.com/vallife/valli-blog.git',
     },
   ],
   // more config: https://d.umijs.org/config
