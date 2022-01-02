@@ -4,8 +4,8 @@ const repo = 'valli-blog';
 
 export default defineConfig({
   title: repo,
-  favicon: '/favicon.ico',
-  logo: '/dqy.png',
+  favicon: 'favicon.ico',
+  logo: 'dqy.png',
   outputPath: 'docs-dist',
   mode: 'site',
   hash: true,
