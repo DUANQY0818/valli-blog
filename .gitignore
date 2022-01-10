@@ -103,6 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
+yarn.lock
 .umi/
 /src/.umi
 docs-dist/
+/yarn.lock
